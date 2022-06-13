@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Z. Matni"
+  name             : "Ziad Matni"
   avatar           : "profile.png"
-  bio              : "Assistant Teaching Professor in Computer Science at UC Santa Barbara"
+  bio              : "Assistant Teaching Professor\nComputer Science"
   location         : "Santa Barbara, CA"
-  employer         : "University of California, Santa Barbara"
+  employer         : "UCSB"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=33UVNpUAAAAJ"
   email            : "ziad.matni@ucsb.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ziadmatni"
+  linkedin         : "ziadmatni"
   orcid            : "http://orcid.org/0000-0001-5124-0854"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@ziadmatni"
+  twitter          : "ziadmatni"
   vine             :
   weibo            :
   xing             :
