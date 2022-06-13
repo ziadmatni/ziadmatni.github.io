@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Ziad Matni"
-  avatar           : "profile.png"
+  avatar           : "headshot1.png"
   bio              : "Assistant Teaching Professor\nComputer Science"
   location         : "Santa Barbara, CA"
   employer         : "UCSB"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=33UVNpUAAAAJ"
   email            : "ziad.matni@ucsb.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ziad-Matni"
   uri              :
   bitbucket        :
   codepen          :
