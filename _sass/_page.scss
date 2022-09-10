@@ -31,7 +31,7 @@
     .page__share {
       @include full();
     }
-  }
+  } 
 }
 
 .page__title {
@@ -53,10 +53,17 @@
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+    font-size: 1.2em;
   }
 
   p, li, dl {
-    font-size: 1em;
+      /* ZM: adjusted relative size from 1em to 0.9em */
+    font-size: 0.9em;
+  }
+
+  code {
+      /* ZM: adjusted relative size from 1em to 1.4em */
+      font-size: 1.4em;
   }
 
   /* paragraph indents */
@@ -189,6 +196,8 @@
     color: #fff;
     text-decoration: none;
   }
+
+  background-color: #fff;
 }
 
 /*
@@ -399,3 +408,4 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+

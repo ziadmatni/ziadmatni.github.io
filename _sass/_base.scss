@@ -17,8 +17,11 @@ body {
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
-    overflow: hidden;
+    overflow: hidden; 
   }
+
+  /* ZM: Added a lite-grey-blue background: */
+  background-color: $zam-background-color;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -31,6 +34,8 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   margin-top: 0;
   font-size: $type-size-3;
+  /* color added by ZM for a "dark blue" */
+  color: $zam-blue-color;
 }
 
 h2 {
@@ -59,6 +64,13 @@ small, .small {
 
 p {
   margin-bottom: 1.3em;
+}
+
+/* new class added by ZM for a "lighter gray" */
+div { 
+    .less_important_text { 
+        color: #818284;
+    }
 }
 
 u,

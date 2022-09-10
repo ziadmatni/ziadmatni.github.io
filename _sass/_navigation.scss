@@ -175,7 +175,9 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  /*background: $background-color;
+   ZM: changed background color to match main page */
+  background-color: $zam-background-color;
 
   a {
     display: block;

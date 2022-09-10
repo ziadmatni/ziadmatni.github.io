@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Ziad Matni, Ph.D"
 title_separator          : "-"
 name                     : &name "Ziad Matni"
-description              : &description "Academic Website"
+description              : &description "Academic Work Website"
 url                      : https://ziadmatni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ziadmatni/ziadmatni.github.io" # "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ziad Matni"
+  name             : 
   avatar           : "headshot1.png"
-  bio              : "Assistant Teaching Professor\nComputer Science"
+  bio              : "Computer Science @ UCSB"
   location         : "Santa Barbara, CA"
-  employer         : "UCSB"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=33UVNpUAAAAJ"
   email            : "ziad.matni@ucsb.edu"
