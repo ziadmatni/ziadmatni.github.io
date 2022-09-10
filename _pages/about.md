@@ -11,7 +11,7 @@ redirect_from:
 -----
 Hello! 
 
-I am an Assitant Teaching Professor (LPSOE) in the 
+I am an Assistant Teaching Professor (LPSOE) in the 
 [Computer Science](https://cs.ucsb.edu){:target="_blank"} department 
 at [UC Santa Barbara](https://www.ucsb.edu){:target="_blank"}.
 I primarily teach undergraduate courses in Computer Science, mentor students, and engage in research in CS education, computational social science, and in data & information science.
