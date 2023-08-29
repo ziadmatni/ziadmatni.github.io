@@ -10,16 +10,18 @@ redirect_from:
 -----
 {% include base_path %}
 
-### Courses I'm teaching this academic year (2022-2023)
-Fall   2022 : [CMPSC 8](){:target="_blank}, [CMPSC 8W](){:target="_blank}<br>
-Winter 2023 : CMPSC 8 *(scheduled)*<br>
-Spring 2023 : CMPSC 32, CMPSC 111 *(scheduled)*<br>
+### Courses I'm teaching this academic year (2023-2024)
+Fall   2023 : <br>
+Winter 2024 : <br>
+Spring 2024 : <br>
 
 ### CMPSC courses I teach at UCSB:
-CMPSC 8   : Introduction to Computer Science<br>
+CMPSC 8/W8: Introduction to Computer Science<br>
 CMPSC 16  : Solving Problems with C++, 1<br>
 CMPSC 32  : Object Oriented Design and Implementation<br>
+CMPSC 40  : <br>
 CMPSC 64  : Computer Organization and Digital Logic Design<br>
+CMPSC 110 : <br>
 CMPSC 111 : Introduction to Computational Science<br>
 CMPSC 154 : Computer Architecture<br>
 CMPSC 176A: Introduction to Computer Communication Network<br>
@@ -27,6 +29,7 @@ CMPSC 176A: Introduction to Computer Communication Network<br>
 <div class="less_important_text">
 <h3>Past CMPSC Courses:</h3>
 <p>
+2022 - 2023 : CMPSC 8/W8, CMPSC 32, CMPSC 111, CMPSC 64<br>
 2021 - 2022 : CMPSC 32, CMPSC 111, CMPSC 154, CMPSC 176A<br>
 2020 - 2021 : CMPSC 16, CMPSC 64, CMPSC 111, CMPSC 154 <em>(all online)</em><br>
 2019 - 2020 : CMPSC 64, CMPSC 111, CMPSC 154 <em>(Sp20 was online)</em><br>
