@@ -11,17 +11,17 @@ redirect_from:
 {% include base_path %}
 
 ### Courses I'm teaching this academic year (2023-2024)
-Fall   2023 : <br>
-Winter 2024 : <br>
-Spring 2024 : <br>
+Fall   2023 : CMPSC 40, CMPSC 110<br>
+Winter 2024 : CMPSC 64, CMPSC 111<br>
+Spring 2024 : CMPSC 32, CMPSC 111 <br>
 
 ### CMPSC courses I teach at UCSB:
 CMPSC 8/W8: Introduction to Computer Science<br>
 CMPSC 16  : Solving Problems with C++, 1<br>
 CMPSC 32  : Object Oriented Design and Implementation<br>
-CMPSC 40  : <br>
+CMPSC 40  : Foundations of Computer Science<br>
 CMPSC 64  : Computer Organization and Digital Logic Design<br>
-CMPSC 110 : <br>
+CMPSC 110 : Introduction to Research in Computer Science (for ERSP)<br>
 CMPSC 111 : Introduction to Computational Science<br>
 CMPSC 154 : Computer Architecture<br>
 CMPSC 176A: Introduction to Computer Communication Network<br>
