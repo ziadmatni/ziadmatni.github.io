@@ -11,9 +11,9 @@ redirect_from:
 {% include base_path %}
 
 ### Courses I'm scheduled to teach in the upcoming academic year (2026-2027)
-Fall   2024 : CMPSC 110<br>
-Winter 2025 : CMPSC 16, CMPTGCS 2<br>
-Spring 2025 : CMPSC 25, CMPSC 64<br>
+Fall   2026 : CMPSC 110<br>
+Winter 2027 : CMPSC 16, CMPTGCS 2<br>
+Spring 2027 : CMPSC 25, CMPSC 64<br>
 
 ### CMPSC courses I teach at UCSB:
 CMPSC 8/W8: Introduction to Computer Science<br>
