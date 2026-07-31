@@ -11,7 +11,7 @@ redirect_from:
 -----
 Hello! 
 
-I am an Assistant Teaching Professor in the 
+I am a tenured Associate Teaching Professor in the 
 [Computer Science](https://cs.ucsb.edu){:target="_blank"} department 
 at [UC Santa Barbara](https://www.ucsb.edu){:target="_blank"}.
 I primarily teach undergraduate courses in Computer Science, mentor students, and engage in research in CS education, computational social science, and in data & information science. Awarded both the Outstanding Faculty in Computer Science (2025) and the UCSB Distinguished Teaching (2026) awards, I have been consistently recognized for my contributions to excellence in education and mentorship of our next generation of Computer Scientists.
